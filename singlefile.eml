@@ -1,8 +1,7 @@
 Subject: My Game
 Content-Type: text/html
 
-<!DOCTYPE html>
-<html lang="en">
+<html>
     <head>
         <base href="https://cdn.jsdelivr.net/gh/gn-math/gn-math-DONTDMCA@main/">
     <link rel="icon" type="image/png" href="favicon.png">
